@@ -12,9 +12,10 @@ RUN mkdir -p /var/www/html
 WORKDIR /var/www/html
 COPY merge-m3u.py /
 RUN chmod a+x /merge-m3u.py
-# RUN pip3 install -r requirements.txt
+RUN pip3 install -r requirements.txt
 
-COPY livetv.m3u /var/www/html/
+COPY merge-m3u.py /
+RUN chmod a+x /merge-m3u.py
 
 COPY run.sh /
 RUN chmod a+x /run.sh
