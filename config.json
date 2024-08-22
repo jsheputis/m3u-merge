@@ -1,0 +1,28 @@
+{
+  "slug": "merge_m3u",
+  "name": "IPTV M3U Service",
+  "version": "0.1.0",
+  "url": "https://github.com/jsheputis/m3u-merge",
+  "stage": "stable",
+  "description": "Personal project.M3U Merging",
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "startup": "services",
+  "init": false,
+  "host_pid": false,
+  "boot": "manual",
+  "ports": {
+    "8080/tcp": 8080
+  },
+  "ports_description": {
+    "8080/tcp": "Webservice API"
+  },
+  "map": [],
+  "options": {
+    "username": "",
+  	"password": ""
+  },
+  "schema": {
+    "username": "str",
+    "password": "str"
+  }
+}
