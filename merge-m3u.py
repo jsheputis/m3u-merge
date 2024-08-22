@@ -2,7 +2,10 @@
 
 
 import requests
+import os
 
+USERNAME = os.getenv('M3U_USERNAME')
+PASSWORD = os.getenv('M3U_PASSWORD')
 
 BASE_URL = 'https://tvnow.best/api/list/jsheputis/746923/m3u8'
 
