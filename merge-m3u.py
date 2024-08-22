@@ -7,10 +7,14 @@ import time
 
 USERNAME = os.getenv('M3U_USERNAME')
 PASSWORD = os.getenv('M3U_PASSWORD')
+BASE_PATH_OVERRIDE = os.getenv('M3U_BASE_PATH')
 
 BASE_URL = 'https://tvnow.best/api/list/%s/%s/m3u8' % (USERNAME, PASSWORD)
 
-BASE_PATH = '/var/www/html'
+BASE_PATH = BASE_PATH_OVERRIDE if None != BASE_PATH_OVERRIDE else '/var/www/html'
+
+print(BASE_URL)
+print(BASE_PATH)
 
 try:
     os.remove(BASE_PATH + '/livetv.m3u.wip')
