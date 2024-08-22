@@ -3,7 +3,6 @@
 
 import requests
 import os
-import time
 
 USERNAME = os.getenv('M3U_USERNAME')
 PASSWORD = os.getenv('M3U_PASSWORD')
