@@ -4,7 +4,7 @@ FROM $BUILD_FROM
 # Install requirements for add-on
 RUN \
   apk add --no-cache \
-    python3
+    python3 pip3
 
 ENV LANG C.UTF-8
 
