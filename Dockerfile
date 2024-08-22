@@ -6,7 +6,7 @@ RUN \
   apk add --no-cache \
     python3
 
-RUN python3 -m ensurepip
+RUN pip3 --help
 
 ENV LANG C.UTF-8
 
