@@ -6,12 +6,9 @@ RUN \
   apk add --no-cache \
     python3 py3-pip
 
-RUN pip3 --help
-
 ENV LANG C.UTF-8
 
 RUN mkdir -p /var/www/html
-
 
 RUN mkdir /merge-m3u
 WORKDIR /merge-m3u
