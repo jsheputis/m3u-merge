@@ -1,5 +1,5 @@
 ARG BUILD_FROM
-FROM alpine:latest
+FROM BUILD_FROM
 
 # Install requirements for add-on
 RUN \
@@ -19,6 +19,5 @@ RUN chmod a+x /merge-m3u/merge-m3u.py
 COPY run.sh /run.sh
 RUN chmod a+x /run.sh
 
-# WORKDIR /var/www/html
 # ENTRYPOINT []
 CMD [ "/run.sh" ]
