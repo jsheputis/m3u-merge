@@ -10,7 +10,8 @@ ENV LANG C.UTF-8
 
 RUN mkdir -p /data
 WORKDIR /data
-COPY merge-m3u.py /data/
+COPY merge-m3u.py /
+RUN CHMOD a+x /merge.m3u.py
 # RUN pip3 install -r requirements.txt
 
 COPY run.sh /
