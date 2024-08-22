@@ -14,7 +14,7 @@ COPY merge-m3u.py /
 RUN chmod a+x /merge-m3u.py
 # RUN pip3 install -r requirements.txt
 
-COPY tvshows.m3u /var/www/html/
+COPY livetv.m3u /var/www/html/
 
 COPY run.sh /
 RUN chmod a+x /run.sh
