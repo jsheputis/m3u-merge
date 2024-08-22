@@ -18,6 +18,7 @@ WORKDIR /merge-m3u
 
 COPY merge-m3u.py /merge-m3u/
 RUN chmod a+x /merge-m3u/merge-m3u.py
+COPY requirements.txt /merge-m3u/
 RUN pip3 install -r requirements.txt
 
 COPY merge-m3u.py /
