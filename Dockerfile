@@ -11,9 +11,13 @@ RUN pip3 --help
 ENV LANG C.UTF-8
 
 RUN mkdir -p /var/www/html
-WORKDIR /var/www/html
-COPY merge-m3u.py /
-RUN chmod a+x /merge-m3u.py
+
+
+RUN mkdir /merge-m3u
+WORKDIR /merge-m3u
+
+COPY merge-m3u.py /merge-m3u/
+RUN chmod a+x /merge-m3u/merge-m3u.py
 RUN pip3 install -r requirements.txt
 
 COPY merge-m3u.py /
@@ -22,6 +26,6 @@ RUN chmod a+x /merge-m3u.py
 COPY run.sh /
 RUN chmod a+x /run.sh
 
-
+WORKDIR /var/www/html
 # ENTRYPOINT []
 CMD [ "/run.sh" ]
