@@ -1,7 +1,7 @@
 {
   "slug": "merge_m3u",
   "name": "IPTV M3U Service",
-  "version": "0.1.28",
+  "version": "0.1.29",
   "url": "https://github.com/jsheputis/m3u-merge",
   "stage": "stable",
   "description": "Personal project.M3U Merging",
