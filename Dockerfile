@@ -8,13 +8,13 @@ RUN \
 
 ENV LANG C.UTF-8
 
-RUN mkdir -p /data
-WORKDIR /data
+RUN mkdir -p /var/www/html
+WORKDIR /var/www/html
 COPY merge-m3u.py /
 RUN chmod a+x /merge-m3u.py
 # RUN pip3 install -r requirements.txt
 
-COPY tvshows.m3u /data/
+COPY tvshows.m3u /var/www/html/
 
 COPY run.sh /
 RUN chmod a+x /run.sh
