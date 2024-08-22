@@ -1,11 +1,10 @@
 ARG BUILD_FROM
-FROM $BUILD_FROM
+FROM alpine:latest
 
 # Install requirements for add-on
 RUN \
   apk add --no-cache \
-    python3 py3-pip \
-  && pip3 install requests
+    python3 py3-pip py3-requests
 
 ENV LANG C.UTF-8
 
@@ -16,8 +15,6 @@ WORKDIR /merge-m3u
 
 COPY merge-m3u.py /merge-m3u/
 RUN chmod a+x /merge-m3u/merge-m3u.py
-COPY requirements.txt /merge-m3u/
-# RUN pip3 install requests
 
 COPY merge-m3u.py /
 RUN chmod a+x /merge-m3u.py
