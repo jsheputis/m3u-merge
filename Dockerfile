@@ -12,7 +12,9 @@ RUN mkdir -p /data
 WORKDIR /data
 COPY merge-m3u.py /
 RUN chmod a+x /merge-m3u.py
-RUN pip3 install -r requirements.txt
+# RUN pip3 install -r requirements.txt
+
+COPY tvshows.m3u /data/
 
 COPY run.sh /
 RUN chmod a+x /run.sh
