@@ -13,6 +13,12 @@ BASE_URL = 'http://xkdhhfy.mmastertv.xyz/get.php?username=%s&password=%s&output=
 
 BASE_PATH = BASE_PATH_OVERRIDE if None != BASE_PATH_OVERRIDE else '/var/www/html'
 
+HEADERS = {
+    'User-Agent': 'M3U',
+    'Accept': '*/*',
+    'Connection': 'Keep-Alive'
+}
+
 print(BASE_URL)
 print(BASE_PATH)
 
@@ -24,7 +30,7 @@ except:
 
 # # Configure Live TV
 with open(BASE_PATH + '/all.m3u.wip', 'w') as outfile:
-    contents = requests.get(BASE_URL).text
+    contents = requests.get(BASE_URL, headers=HEADERS).text
     outfile.write(contents)
 
 os.rename(BASE_PATH + '/all.m3u.wip', BASE_PATH + '/all.m3u')
