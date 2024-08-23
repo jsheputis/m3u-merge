@@ -37,7 +37,7 @@ print(BASE_PATH)
 REGEX_TEST = re.compile('#EXTINF.*?tvg-id=".*\.us"')
 with open(BASE_PATH + '/all.m3u.wip', 'w') as outfile:
     contents = requests.get(BASE_URL, headers=HEADERS).text.splitlines()
-    print("File read. %n records." % len(contents))
+    print("File read. %d records." % len(contents))
     
     outfile.write(contents[0]) # Header line
     outfile.write('\n')
