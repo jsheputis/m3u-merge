@@ -57,6 +57,7 @@ with open(BASE_PATH + '/all.m3u.wip', 'w') as outfile:
 
 os.rename(BASE_PATH + '/all.m3u.wip', BASE_PATH + '/all2.m3u')
 
+print("File creation complete.")
 # # Configure Movies
 # try:
 #     os.remove(BASE_PATH + '/movies.m3u.wip')
