@@ -18,7 +18,7 @@ RUN chmod a+x /merge-m3u/merge-m3u.py
 COPY run.sh /run.sh
 RUN chmod a+x /run.sh
 
-COPY xteve-filter.m3u /var/www/html/
+COPY xteve-filtered.m3u /var/www/html/
 
 WORKDIR /var/www/html
 
