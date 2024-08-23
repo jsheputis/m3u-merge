@@ -1,0 +1,451 @@
+#EXTM3U url-tvg="http://192.168.64.1:34400/xmltv/xteve.xml" x-tvg-url="http://192.168.64.1:34400/xmltv/xteve.xml"
+#EXTINF:0 channelID="x-ID.0" tvg-chno="1000" tvg-name="US| CBS 02 (WBBM) CHICAGO" tvg-id="1000" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 02 (WBBM) CHICAGO
+http://192.168.64.1:34400/stream/ef5b8d89cdeb5a5aa1ac6d2c06aa61f0
+#EXTINF:0 channelID="x-ID.1" tvg-chno="1001" tvg-name="US| CBS 02 (WCBS) NEW YORK" tvg-id="1001" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 02 (WCBS) NEW YORK
+http://192.168.64.1:34400/stream/2bc6caa8e73c54edd8eea7415ffc1659
+#EXTINF:0 channelID="x-ID.2" tvg-chno="1002" tvg-name="US| CBS 02 (KBOI) BOISE" tvg-id="1002" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 02 (KBOI) BOISE
+http://192.168.64.1:34400/stream/fc6588b52b21baba1c6fec4a4e638d81
+#EXTINF:0 channelID="x-ID.3" tvg-chno="1003" tvg-name="US| CBS 02 (KCBS) LOS ANGELES HD" tvg-id="1003" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 02 (KCBS) LOS ANGELES HD
+http://192.168.64.1:34400/stream/c0f11ac9a34758b0f05f5ab99e9fc306
+#EXTINF:0 channelID="x-ID.4" tvg-chno="1004" tvg-name="US| CBS 02 (KDKA) PITTSBURGH" tvg-id="1004" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 02 (KDKA) PITTSBURGH
+http://192.168.64.1:34400/stream/8b07df673670ae5635bf9889f54dc9e4
+#EXTINF:0 channelID="x-ID.5" tvg-chno="1005" tvg-name="US| CBS 02 (KGAN) CEDAR RAPIDS" tvg-id="1005" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 02 (KGAN) CEDAR RAPIDS
+http://192.168.64.1:34400/stream/45b4a2e6433234df65dc0c890ba85a2a
+#EXTINF:0 channelID="x-ID.6" tvg-chno="1006" tvg-name="US| CBS 02 (KPSP) PALM SPRINGS" tvg-id="1006" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 02 (KPSP) PALM SPRINGS
+http://192.168.64.1:34400/stream/fedd02958bdf032adfcdf61f462b431c
+#EXTINF:0 channelID="x-ID.7" tvg-chno="1007" tvg-name="US| CBS 02 (KREM) SPOKANE" tvg-id="1007" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 02 (KREM) SPOKANE
+http://192.168.64.1:34400/stream/e4677d80491849393957b775671abada
+#EXTINF:0 channelID="x-ID.8" tvg-chno="1008" tvg-name="US| CBS 02 (KTVN) RENO" tvg-id="1008" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 02 (KTVN) RENO
+http://192.168.64.1:34400/stream/e45b69065cae5c6b3086f6be58e4c1b7
+#EXTINF:0 channelID="x-ID.9" tvg-chno="1009" tvg-name="US| CBS 02 (KTVQ) BILLINGS" tvg-id="1009" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 02 (KTVQ) BILLINGS
+http://192.168.64.1:34400/stream/3548773546625bc6a37ba67c0d41b192
+#EXTINF:0 channelID="x-ID.10" tvg-chno="1010" tvg-name="US| CBS 02 (KUTV) SALT LAKE CITY" tvg-id="1010" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 02 (KUTV) SALT LAKE CITY
+http://192.168.64.1:34400/stream/97199a85dc7df7b03fa7999427c163ab
+#EXTINF:0 channelID="x-ID.11" tvg-chno="1011" tvg-name="US| CBS 02 (WFMY) GREENSBORO" tvg-id="1011" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 02 (WFMY) GREENSBORO
+http://192.168.64.1:34400/stream/62bdd90099c2f2d398d6987bf38847bd
+#EXTINF:0 channelID="x-ID.12" tvg-chno="1012" tvg-name="US| CBS 03 (KBTX) BRYAN" tvg-id="1012" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 03 (KBTX) BRYAN
+http://192.168.64.1:34400/stream/d6d932eff52ef61d7c13c5a80157f08d
+#EXTINF:0 channelID="x-ID.13" tvg-chno="1013" tvg-name="US| CBS 03 (KIDK) IDAHO FALLS" tvg-id="1013" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 03 (KIDK) IDAHO FALLS
+http://192.168.64.1:34400/stream/a72cb6e6689c8196aedccbba47fbc912
+#EXTINF:0 channelID="x-ID.14" tvg-chno="1014" tvg-name="US| CBS 03 (KIMT) ROCHESTER" tvg-id="1014" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 03 (KIMT) ROCHESTER
+http://192.168.64.1:34400/stream/b145501d06108dc154f00d3c8f0042a1
+#EXTINF:0 channelID="x-ID.15" tvg-chno="1015" tvg-name="US| CBS 03 (KMTV) OMAHA" tvg-id="1015" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 03 (KMTV) OMAHA
+http://192.168.64.1:34400/stream/eec5e90043bfe8e044d77e0eedfb7745
+#EXTINF:0 channelID="x-ID.16" tvg-chno="1016" tvg-name="US| CBS 03 (KRTV) GREAT FALLS" tvg-id="1016" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 03 (KRTV) GREAT FALLS
+http://192.168.64.1:34400/stream/1942e373bf4da55e05eb4c4726e64d8d
+#EXTINF:0 channelID="x-ID.17" tvg-chno="1017" tvg-name="US| CBS 03 (KYW) PHILADELPHIA HD" tvg-id="1017" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 03 (KYW) PHILADELPHIA HD
+http://192.168.64.1:34400/stream/d871888dd8e85c64c48667150ac4168b
+#EXTINF:0 channelID="x-ID.18" tvg-chno="1018" tvg-name="US| CBS 03 (TVW_WISC) MADISON" tvg-id="1018" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 03 (TVW_WISC) MADISON
+http://192.168.64.1:34400/stream/37feae5c1d8b23fa2ea4805c67c49d6a
+#EXTINF:0 channelID="x-ID.19" tvg-chno="1019" tvg-name="US| CBS 03 (WBTV) CHARLOTTE" tvg-id="1019" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 03 (WBTV) CHARLOTTE
+http://192.168.64.1:34400/stream/96e523b60a7df3763ebb6fb0d67d5eca
+#EXTINF:0 channelID="x-ID.20" tvg-chno="1020" tvg-name="US| CBS 03 (WCAX) BURLINGTON" tvg-id="1020" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 03 (WCAX) BURLINGTON
+http://192.168.64.1:34400/stream/d4f716371c81b955717464421c53d169
+#EXTINF:0 channelID="x-ID.21" tvg-chno="1021" tvg-name="US| CBS 03 (WCIA) CHAMPAIGN" tvg-id="1021" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 03 (WCIA) CHAMPAIGN
+http://192.168.64.1:34400/stream/9b165c0536d8f53eac4fdb0cde298502
+#EXTINF:0 channelID="x-ID.22" tvg-chno="1022" tvg-name="US| CBS 03 (WFSB) HARTFORD HD" tvg-id="1022" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 03 (WFSB) HARTFORD HD
+http://192.168.64.1:34400/stream/b9512e119887b77fa2302e6b3fe0aea3
+#EXTINF:0 channelID="x-ID.23" tvg-chno="1023" tvg-name="US| CBS 03 (WISC) MADISON" tvg-id="1023" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 03 (WISC) MADISON
+http://192.168.64.1:34400/stream/46773d0b9479f9dbac6b7a87d6a92665
+#EXTINF:0 channelID="x-ID.24" tvg-chno="1024" tvg-name="US| CBS 03 (WRBL) COLUMBUS" tvg-id="1024" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 03 (WRBL) COLUMBUS
+http://192.168.64.1:34400/stream/cbdd7ffbef568b790fa06dd2ed3c4d1b
+#EXTINF:0 channelID="x-ID.25" tvg-chno="1025" tvg-name="US| CBS 03 (WREG) MEMPHIS" tvg-id="1025" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 03 (WREG) MEMPHIS
+http://192.168.64.1:34400/stream/800e2b52e2e75bd1d93a256c8f2b1162
+#EXTINF:0 channelID="x-ID.26" tvg-chno="1026" tvg-name="US| CBS 03 (WSHM) SPRINGFIELD" tvg-id="1026" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 03 (WSHM) SPRINGFIELD
+http://192.168.64.1:34400/stream/b04ea773949dc55a3d28344a3325dc78
+#EXTINF:0 channelID="x-ID.27" tvg-chno="1027" tvg-name="US| CBS 03 (WTKR) HAMPTON ROADS" tvg-id="1027" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 03 (WTKR) HAMPTON ROADS
+http://192.168.64.1:34400/stream/d0cc7c93ff36c33e7ee9d7aa15a9ff88
+#EXTINF:0 channelID="x-ID.28" tvg-chno="1028" tvg-name="US| CBS 03 (WWAY) WILMINGTON" tvg-id="1028" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 03 (WWAY) WILMINGTON
+http://192.168.64.1:34400/stream/a3909831f3fa01b52f748fba2883a0eb
+#EXTINF:0 channelID="x-ID.29" tvg-chno="1029" tvg-name="US| CBS 03 (WWMT) KALAMAZOO" tvg-id="1029" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 03 (WWMT) KALAMAZOO
+http://192.168.64.1:34400/stream/3446fb2df40bff21a9221047c90bc68c
+#EXTINF:0 channelID="x-ID.30" tvg-chno="1030" tvg-name="US| CBS 04 (KCNC) DENVER HD" tvg-id="1030" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 04 (KCNC) DENVER HD
+http://192.168.64.1:34400/stream/4d7b022a14024f4b50f8a29ab6e96bf2
+#EXTINF:0 channelID="x-ID.31" tvg-chno="1031" tvg-name="US| CBS 04 (KDBC) EL PASO TX" tvg-id="1031" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 04 (KDBC) EL PASO TX
+http://192.168.64.1:34400/stream/f6177e34864e648ba3b0983e01bf06a4
+#EXTINF:0 channelID="x-ID.32" tvg-chno="1032" tvg-name="US| CBS 04 (KGBT) HARLINGEN TX" tvg-id="1032" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 04 (KGBT) HARLINGEN TX
+http://192.168.64.1:34400/stream/747cfc8f52547fff3ed3f48c5c0dc6c5
+#EXTINF:0 channelID="x-ID.33" tvg-chno="1033" tvg-name="US| CBS 04 (KMOV) ST. LOUIS HD" tvg-id="1033" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 04 (KMOV) ST. LOUIS HD
+http://192.168.64.1:34400/stream/cae6af5499a5e959491de2e2640fb742
+#EXTINF:0 channelID="x-ID.34" tvg-chno="1034" tvg-name="US| CBS 04 (KXLF) BUTTE" tvg-id="1034" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 04 (KXLF) BUTTE
+http://192.168.64.1:34400/stream/030995e0d8cf8cbae9415457d6f7f7e5
+#EXTINF:0 channelID="x-ID.35" tvg-chno="1035" tvg-name="US| CBS 04 (WBZ) BOSTON" tvg-id="1035" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 04 (WBZ) BOSTON
+http://192.168.64.1:34400/stream/8ec968b6ae2e56a64e8e5d0b3c5b15f9
+#EXTINF:0 channelID="x-ID.36" tvg-chno="1036" tvg-name="US| CBS 04 (WCBI) COLUMBUS" tvg-id="1036" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 04 (WCBI) COLUMBUS
+http://192.168.64.1:34400/stream/0b50a01f5bf801b851ada17a289003f7
+#EXTINF:0 channelID="x-ID.37" tvg-chno="1037" tvg-name="US| CBS 04 (WCCO) MINNEAPOLIS MN" tvg-id="1037" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 04 (WCCO) MINNEAPOLIS MN
+http://192.168.64.1:34400/stream/340b0d4eed7c9b169dc626d8763312ac
+#EXTINF:0 channelID="x-ID.38" tvg-chno="1038" tvg-name="US| CBS 04 (WFOR) MIAMI" tvg-id="1038" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 04 (WFOR) MIAMI
+http://192.168.64.1:34400/stream/3918c4adabdf59e102bca6e5c2316fb7
+#EXTINF:0 channelID="x-ID.39" tvg-chno="1039" tvg-name="US| CBS 04 (WHBF) ROCK ISLAND" tvg-id="1039" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 04 (WHBF) ROCK ISLAND
+http://192.168.64.1:34400/stream/687d473d0f23b83562f472870bebfae5
+#EXTINF:0 channelID="x-ID.40" tvg-chno="1040" tvg-name="US| CBS 04 (WIVB) BUFFALO" tvg-id="1040" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 04 (WIVB) BUFFALO
+http://192.168.64.1:34400/stream/7839a5a2a19306c5ad62b9f196547682
+#EXTINF:0 channelID="x-ID.41" tvg-chno="1041" tvg-name="US| CBS 04 (WTTV) INDIANAPOLIS" tvg-id="1041" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 04 (WTTV) INDIANAPOLIS
+http://192.168.64.1:34400/stream/d63a44ca13ad1b2d33bcc2df31273bc7
+#EXTINF:0 channelID="x-ID.42" tvg-chno="1042" tvg-name="US| CBS 04 (WTVY) DOTHAN" tvg-id="1042" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 04 (WTVY) DOTHAN
+http://192.168.64.1:34400/stream/c7352e1fc81f968ef2dbe466fef9f4ac
+#EXTINF:0 channelID="x-ID.43" tvg-chno="1043" tvg-name="US| CBS 04 (WWL) NEW ORLEANS HD" tvg-id="1043" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 04 (WWL) NEW ORLEANS HD
+http://192.168.64.1:34400/stream/44d0b090f79eacebae3c4d5519e17256
+#EXTINF:0 channelID="x-ID.44" tvg-chno="1044" tvg-name="US| CBS 05 (WTVF) NASHVILLE" tvg-id="1044" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 05 (WTVF) NASHVILLE
+http://192.168.64.1:34400/stream/09c2e9aae6db9c39e0bec20a97eb6d4b
+#EXTINF:0 channelID="x-ID.45" tvg-chno="1045" tvg-name="US| CBS 05 (KALB-DT2) ALEXANDRIA" tvg-id="1045" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 05 (KALB-DT2) ALEXANDRIA
+http://192.168.64.1:34400/stream/cd18c4f37414fb87021439689b562070
+#EXTINF:0 channelID="x-ID.46" tvg-chno="1046" tvg-name="US| CBS 05 (KCTV) KANSAS CITY" tvg-id="1046" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 05 (KCTV) KANSAS CITY
+http://192.168.64.1:34400/stream/8a6ae120207d4df8859671a4a8a4c074
+#EXTINF:0 channelID="x-ID.47" tvg-chno="1047" tvg-name="US| CBS 05 (KENS) SAN ANTONIO HD" tvg-id="1047" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 05 (KENS) SAN ANTONIO HD
+http://192.168.64.1:34400/stream/cad0e657c21c8cf515582f0829db0b58
+#EXTINF:0 channelID="x-ID.48" tvg-chno="1048" tvg-name="US| CBS 05 (KFSM) FORT SMITH" tvg-id="1048" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 05 (KFSM) FORT SMITH
+http://192.168.64.1:34400/stream/2bc3d8d26f5e3ea866b4dbbed39cd267
+#EXTINF:0 channelID="x-ID.49" tvg-chno="1049" tvg-name="US| CBS 05 (KGMB) HONOLULU" tvg-id="1049" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 05 (KGMB) HONOLULU
+http://192.168.64.1:34400/stream/7dc01927b3a1a26ad96c45842aa18adb
+#EXTINF:0 channelID="x-ID.50" tvg-chno="1050" tvg-name="US| CBS 05 (KGWN) CHEYENNE/SCOTTSBLUFF" tvg-id="1050" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 05 (KGWN) CHEYENNE/SCOTTSBLUFF
+http://192.168.64.1:34400/stream/d9ab028cb5c89cab854716e225c1465d
+#EXTINF:0 channelID="x-ID.51" tvg-chno="1051" tvg-name="US| CBS 05 (KPHO) PHOENIX HD" tvg-id="1051" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 05 (KPHO) PHOENIX HD
+http://192.168.64.1:34400/stream/4a5a2309e2480a7538acdc43b182e8eb
+#EXTINF:0 channelID="x-ID.52" tvg-chno="1052" tvg-name="US| CBS 05 (KREX) GRAND JUNCTION" tvg-id="1052" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 05 (KREX) GRAND JUNCTION
+http://192.168.64.1:34400/stream/c2e4d8c15903894766efc45a81c3bb63
+#EXTINF:0 channelID="x-ID.53" tvg-chno="1053" tvg-name="US| CBS 05 (WABI) BANGOR" tvg-id="1053" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 05 (WABI) BANGOR
+http://192.168.64.1:34400/stream/5cd3a7b30b9a9b18f24efc058bac8f85
+#EXTINF:0 channelID="x-ID.54" tvg-chno="1054" tvg-name="US| CBS 05 (WCSC) CHARLESTON" tvg-id="1054" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 05 (WCSC) CHARLESTON
+http://192.168.64.1:34400/stream/9438e91859c80e244402dd296070e894
+#EXTINF:0 channelID="x-ID.55" tvg-chno="1055" tvg-name="US| CBS 05 (WFRV) GREEN BAY" tvg-id="1055" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 05 (WFRV) GREEN BAY
+http://192.168.64.1:34400/stream/6567f45fd54631f17df900ee2ea5c248
+#EXTINF:0 channelID="x-ID.56" tvg-chno="1056" tvg-name="US| CBS 05 (WKRG) MOBILE AL" tvg-id="1056" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 05 (WKRG) MOBILE AL
+http://192.168.64.1:34400/stream/21e93adcfd6732a545031c5a39b4eed9
+#EXTINF:0 channelID="x-ID.57" tvg-chno="1057" tvg-name="US| CBS 05 (WNEM) FLINT/BAY CITY" tvg-id="1057" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 05 (WNEM) FLINT/BAY CITY
+http://192.168.64.1:34400/stream/aa8717e02f845a8bccaa91c8ad840017
+#EXTINF:0 channelID="x-ID.58" tvg-chno="1058" tvg-name="US| CBS 05 (WTVH) SYRACUSE" tvg-id="1058" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 05 (WTVH) SYRACUSE
+http://192.168.64.1:34400/stream/8fe08bc8ddc1c49f662399fb9891e5b9
+#EXTINF:0 channelID="x-ID.59" tvg-chno="1059" tvg-name="US| CBS 05 (KPIX) SAN FRANCISCO" tvg-id="1059" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 05 (KPIX) SAN FRANCISCO
+http://192.168.64.1:34400/stream/dda40ad595415fa824328eadbff7fa17
+#EXTINF:0 channelID="x-ID.60" tvg-chno="1060" tvg-name="US| CBS 06 (KAUZ) WICHITA FALLS" tvg-id="1060" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 06 (KAUZ) WICHITA FALLS
+http://192.168.64.1:34400/stream/f762bb3e9e8ae0ec57bbeb8df3104c94
+#EXTINF:0 channelID="x-ID.61" tvg-chno="1061" tvg-name="US| CBS 06 (KFDM) PORT ARTHUR" tvg-id="1061" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 06 (KFDM) PORT ARTHUR
+http://192.168.64.1:34400/stream/9a1ccab72c318502a974df6c55a8aa17
+#EXTINF:0 channelID="x-ID.62" tvg-chno="1062" tvg-name="US| CBS 06 (KOIN) PORTLAND" tvg-id="1062" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 06 (KOIN) PORTLAND
+http://192.168.64.1:34400/stream/6c6f5fd1127e37588332c17085645ea8
+#EXTINF:0 channelID="x-ID.63" tvg-chno="1063" tvg-name="US| CBS 06 (KOTV) TULSA" tvg-id="1063" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 06 (KOTV) TULSA
+http://192.168.64.1:34400/stream/23d97a5e2935f47fd2d4c63a7c89b261
+#EXTINF:0 channelID="x-ID.64" tvg-chno="1064" tvg-name="US| CBS 06 (WCTV) TALLAHASSEE" tvg-id="1064" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 06 (WCTV) TALLAHASSEE
+http://192.168.64.1:34400/stream/3aa8209a5a959c40b99c7b5b2217e36c
+#EXTINF:0 channelID="x-ID.65" tvg-chno="1065" tvg-name="US| CBS 06 (WKMG) ORLANDO" tvg-id="1065" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 06 (WKMG) ORLANDO
+http://192.168.64.1:34400/stream/a30d281a29c558926c219271c0251584
+#EXTINF:0 channelID="x-ID.66" tvg-chno="1066" tvg-name="US| CBS 06 (WLNS) LANSING" tvg-id="1066" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 06 (WLNS) LANSING
+http://192.168.64.1:34400/stream/679d74212ea8b5c3ced497c0751d4046
+#EXTINF:0 channelID="x-ID.67" tvg-chno="1067" tvg-name="US| CBS 06 (WTVR) RICHMOND" tvg-id="1067" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 06 (WTVR) RICHMOND
+http://192.168.64.1:34400/stream/9cadb33577d9158df86f94bf8f996dfc
+#EXTINF:0 channelID="x-ID.68" tvg-chno="1068" tvg-name="US| CBS 06 (WRGB) ALBANY" tvg-id="1068" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 06 (WRGB) ALBANY
+http://192.168.64.1:34400/stream/94a530335ead1c43f8b92dccd83a5858
+#EXTINF:0 channelID="x-ID.69" tvg-chno="1069" tvg-name="US| CBS 07 (KBNZ-LD) BEND" tvg-id="1069" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 07 (KBNZ-LD) BEND
+http://192.168.64.1:34400/stream/a7c9a16aee9a8e2ad53613fc4ef8aa26
+#EXTINF:0 channelID="x-ID.70" tvg-chno="1070" tvg-name="US| CBS 07 (KHQA-DT) QUINCY" tvg-id="1070" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 07 (KHQA-DT) QUINCY
+http://192.168.64.1:34400/stream/f450e772c4839c0e1afb8c714504dbf6
+#EXTINF:0 channelID="x-ID.71" tvg-chno="1071" tvg-name="US| CBS 07 (KIRO) SEATTLE" tvg-id="1071" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 07 (KIRO) SEATTLE
+http://192.168.64.1:34400/stream/0d4f7fee567864bbf97d1ef2e82d0099
+#EXTINF:0 channelID="x-ID.72" tvg-chno="1072" tvg-name="US| CBS 07 (KOAM) JOPLIN" tvg-id="1072" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 07 (KOAM) JOPLIN
+http://192.168.64.1:34400/stream/7954dba0cc9d2a6fa0bdad9ef5b39014
+#EXTINF:0 channelID="x-ID.73" tvg-chno="1073" tvg-name="US| CBS 07 (KOSA) ODESSA/MIDLAND" tvg-id="1073" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 07 (KOSA) ODESSA/MIDLAND
+http://192.168.64.1:34400/stream/0175b27b8b7727f18191966718bb59d4
+#EXTINF:0 channelID="x-ID.74" tvg-chno="1074" tvg-name="US| CBS 07 (WBBJ-DT3) JACKSON" tvg-id="1074" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 07 (WBBJ-DT3) JACKSON
+http://192.168.64.1:34400/stream/2096a3e96bef48bbb13538e83c3ef007
+#EXTINF:0 channelID="x-ID.75" tvg-chno="1075" tvg-name="US| CBS 07 (WDBJ) ROANOKE" tvg-id="1075" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 07 (WDBJ) ROANOKE
+http://192.168.64.1:34400/stream/8d32d380952e70ef9e039fdffaa73568
+#EXTINF:0 channelID="x-ID.76" tvg-chno="1076" tvg-name="US| CBS 07 (WHIO) DAYTON" tvg-id="1076" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 07 (WHIO) DAYTON
+http://192.168.64.1:34400/stream/6e07e56069b52783025600aad56cff5e
+#EXTINF:0 channelID="x-ID.77" tvg-chno="1077" tvg-name="US| CBS 07 (WSAW) WAUSAU" tvg-id="1077" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 07 (WSAW) WAUSAU
+http://192.168.64.1:34400/stream/b2062e3b4bcd3e56055b0e3448f81cec
+#EXTINF:0 channelID="x-ID.78" tvg-chno="1078" tvg-name="US| CBS 07 (WSPA) SPARTANBURG" tvg-id="1078" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 07 (WSPA) SPARTANBURG
+http://192.168.64.1:34400/stream/9746daac8ae522f1bdc38e06b0c6f82e
+#EXTINF:0 channelID="x-ID.79" tvg-chno="1079" tvg-name="US| CBS 08 (KCCI) DES MOINES" tvg-id="1079" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 08 (KCCI) DES MOINES
+http://192.168.64.1:34400/stream/0593ae111994c9de47af36d4dffa91f5
+#EXTINF:0 channelID="x-ID.80" tvg-chno="1080" tvg-name="US| CBS 08 (KFMB) SAN DIEGO HD" tvg-id="1080" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 08 (KFMB) SAN DIEGO HD
+http://192.168.64.1:34400/stream/733a66ee376c9f06f6a161136c68372c
+#EXTINF:0 channelID="x-ID.81" tvg-chno="1081" tvg-name="US| CBS 08 (KLAS) LAS VEGAS" tvg-id="1081" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 08 (KLAS) LAS VEGAS
+http://192.168.64.1:34400/stream/58e7efd5ab8dc651d925658a07f50a8a
+#EXTINF:0 channelID="x-ID.82" tvg-chno="1082" tvg-name="US| CBS 08 (KLST) SAN ANGELO" tvg-id="1082" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 08 (KLST) SAN ANGELO
+http://192.168.64.1:34400/stream/8b65d324d3e32d522c6cd4e48d1e03a7
+#EXTINF:0 channelID="x-ID.83" tvg-chno="1083" tvg-name="US| CBS 08 (KNOE) MONROEÂ€“EL DORADO" tvg-id="1083" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 08 (KNOE) MONROEÂ€“EL DORADO
+http://192.168.64.1:34400/stream/b969b9f475d32bbe51fe869676053811
+#EXTINF:0 channelID="x-ID.84" tvg-chno="1084" tvg-name="US| CBS 08 (WAKA) SELMA" tvg-id="1084" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 08 (WAKA) SELMA
+http://192.168.64.1:34400/stream/abfce8f343861f098d54be4191031b30
+#EXTINF:0 channelID="x-ID.85" tvg-chno="1085" tvg-name="US| CBS 08 (WKBT) LA CROSSE" tvg-id="1085" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 08 (WKBT) LA CROSSE
+http://192.168.64.1:34400/stream/1572cc1c0b13305773f2565ac35574f6
+#EXTINF:0 channelID="x-ID.86" tvg-chno="1086" tvg-name="US| CBS 08 (WROC) ROCHESTER" tvg-id="1086" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 08 (WROC) ROCHESTER
+http://192.168.64.1:34400/stream/857decdec26c6c0d70711c6a74951370
+#EXTINF:0 channelID="x-ID.87" tvg-chno="1087" tvg-name="US| CBS 08 (WVLT) KNOXVILLE" tvg-id="1087" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 08 (WVLT) KNOXVILLE
+http://192.168.64.1:34400/stream/fb081fea4c5305ec7935aa11f1c420c4
+#EXTINF:0 channelID="x-ID.88" tvg-chno="1088" tvg-name="US| CBS 09 (KCAL) LOS ANGELES HD" tvg-id="1088" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 09 (KCAL) LOS ANGELES HD
+http://192.168.64.1:34400/stream/58d8f3d1a11dce05f45cb15692263688
+#EXTINF:0 channelID="x-ID.89" tvg-chno="1089" tvg-name="US| CBS 09 (KWTV) OKLAHOMA CITY" tvg-id="1089" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 09 (KWTV) OKLAHOMA CITY
+http://192.168.64.1:34400/stream/d69923a3857f03f5e0e3d3a31fffa851
+#EXTINF:0 channelID="x-ID.90" tvg-chno="1090" tvg-name="US| CBS 09 (WNCT) GREENVILLE" tvg-id="1090" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 09 (WNCT) GREENVILLE
+http://192.168.64.1:34400/stream/d6bf88da00e907e24c036da004964a11
+#EXTINF:0 channelID="x-ID.91" tvg-chno="1091" tvg-name="US| CBS 09 (WUSA) WASHINGTON HD" tvg-id="1091" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 09 (WUSA) WASHINGTON HD
+http://192.168.64.1:34400/stream/6aadaf86512978ca58d482a1faa10d29
+#EXTINF:0 channelID="x-ID.92" tvg-chno="1092" tvg-name="US| CBS 09 (WWTV) CADILLAC" tvg-id="1092" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 09 (WWTV) CADILLAC
+http://192.168.64.1:34400/stream/3aeaface223c2f9f7ef4d25494126abd
+#EXTINF:0 channelID="x-ID.93" tvg-chno="1093" tvg-name="US| CBS 05 (KYES) ANCHORAGE" tvg-id="1093" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 05 (KYES) ANCHORAGE
+http://192.168.64.1:34400/stream/31f2e09d5285d7209460f0849bb0a8f8
+#EXTINF:0 channelID="x-ID.94" tvg-chno="1094" tvg-name="US| CBS 38 (WSBK) BOSTON" tvg-id="1094" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 38 (WSBK) BOSTON
+http://192.168.64.1:34400/stream/6f3484c3f9fb1dec6fba1512c2c2ef4d
+#EXTINF:0 channelID="x-ID.95" tvg-chno="1095" tvg-name="US| CBS 12 (KEYT) SANTA BARBARA" tvg-id="1095" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 12 (KEYT) SANTA BARBARA
+http://192.168.64.1:34400/stream/4076c51db8a86c3f5221aabb229e159b
+#EXTINF:0 channelID="x-ID.96" tvg-chno="1096" tvg-name="US| CBS 10 (KFDA) AMARILLO" tvg-id="1096" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 10 (KFDA) AMARILLO
+http://192.168.64.1:34400/stream/f80df78f86c68b380bba99f6d6a2b722
+#EXTINF:0 channelID="x-ID.97" tvg-chno="1097" tvg-name="US| CBS 10 (KLFY) LAFAYETTE" tvg-id="1097" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 10 (KLFY) LAFAYETTE
+http://192.168.64.1:34400/stream/a706d5390588788b4cd3ad7bc87224df
+#EXTINF:0 channelID="x-ID.98" tvg-chno="1098" tvg-name="US| CBS 10 (KOLN) LINCOLN HD" tvg-id="1098" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 10 (KOLN) LINCOLN HD
+http://192.168.64.1:34400/stream/b083c0db3352793bca32ca1caed7af8a
+#EXTINF:0 channelID="x-ID.99" tvg-chno="1099" tvg-name="US| CBS 10 (KOLR) SPRINGFIELD" tvg-id="1099" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 10 (KOLR) SPRINGFIELD
+http://192.168.64.1:34400/stream/ec37ffff185abef60e65826b64c5ab17
+#EXTINF:0 channelID="x-ID.100" tvg-chno="1100" tvg-name="US| CBS 10 (KTVL) MEDFORD" tvg-id="1100" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 10 (KTVL) MEDFORD
+http://192.168.64.1:34400/stream/036a8d30e537a70db32620c3f7e03bac
+#EXTINF:0 channelID="x-ID.101" tvg-chno="1101" tvg-name="US| CBS 10 (KWTX) WACO" tvg-id="1101" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 10 (KWTX) WACO
+http://192.168.64.1:34400/stream/115149219f8202755a31785cbb5506b7
+#EXTINF:0 channelID="x-ID.102" tvg-chno="1102" tvg-name="US| CBS 10 (KZTV) CORPUS CHRISTI" tvg-id="1102" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 10 (KZTV) CORPUS CHRISTI
+http://192.168.64.1:34400/stream/a1b8982f1799808de5698986154faee4
+#EXTINF:0 channelID="x-ID.103" tvg-chno="1103" tvg-name="US| CBS 10 (WBNS) COLUMBUS" tvg-id="1103" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 10 (WBNS) COLUMBUS
+http://192.168.64.1:34400/stream/09fb3ff20398b7039f8ec57a70e3e103
+#EXTINF:0 channelID="x-ID.104" tvg-chno="1104" tvg-name="US| CBS 10 (WTAJ) ALTOONA" tvg-id="1104" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 10 (WTAJ) ALTOONA
+http://192.168.64.1:34400/stream/4ae5b5824e19655123f2cde5ed60c724
+#EXTINF:0 channelID="x-ID.105" tvg-chno="1105" tvg-name="US| CBS 10 (WTHI) TERRE HAUTE" tvg-id="1105" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 10 (WTHI) TERRE HAUTE
+http://192.168.64.1:34400/stream/bd4030b462778cc6555554e3268ceca2
+#EXTINF:0 channelID="x-ID.106" tvg-chno="1106" tvg-name="US| CBS 10 (WTSP) TAMPA" tvg-id="1106" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 10 (WTSP) TAMPA
+http://192.168.64.1:34400/stream/5c343c9fd131812f85b48860dcce553a
+#EXTINF:0 channelID="x-ID.107" tvg-chno="1107" tvg-name="US| CBS 11 (KCLO) RAPID CITY" tvg-id="1107" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 11 (KCLO) RAPID CITY
+http://192.168.64.1:34400/stream/df0ab4f3e60b91db2349b718fc6fde3e
+#EXTINF:0 channelID="x-ID.108" tvg-chno="1108" tvg-name="US| CBS 11 (KELO) SIOUX FALLS" tvg-id="1108" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 11 (KELO) SIOUX FALLS
+http://192.168.64.1:34400/stream/8a531bcabca6647c64777a96439200ba
+#EXTINF:0 channelID="x-ID.109" tvg-chno="1109" tvg-name="US| CBS 11 (KHOU) HOUSTON HD" tvg-id="1109" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 11 (KHOU) HOUSTON HD
+http://192.168.64.1:34400/stream/e3f427957957469a3aa8361d24db94b6
+#EXTINF:0 channelID="x-ID.110" tvg-chno="1110" tvg-name="US| CBS 11 (KKTV) COLORADO SPRINGS" tvg-id="1110" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 11 (KKTV) COLORADO SPRINGS
+http://192.168.64.1:34400/stream/922fc8e951f973782a88e7f0b4c30ed3
+#EXTINF:0 channelID="x-ID.111" tvg-chno="1111" tvg-name="US| CBS 11 (KMVT) TWIN FALLS" tvg-id="1111" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 11 (KMVT) TWIN FALLS
+http://192.168.64.1:34400/stream/5bd4cc4a4a71ae127833d368d18dd26f
+#EXTINF:0 channelID="x-ID.112" tvg-chno="1112" tvg-name="US| CBS 11 (KTHV) LITTLE ROCK" tvg-id="1112" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 11 (KTHV) LITTLE ROCK
+http://192.168.64.1:34400/stream/ddedb90bf3bdf253ace990634a72fd38
+#EXTINF:0 channelID="x-ID.113" tvg-chno="1113" tvg-name="US| CBS 11 (KTVT) FORT WORTH/DALLAS" tvg-id="1113" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 11 (KTVT) FORT WORTH/DALLAS
+http://192.168.64.1:34400/stream/217fb71027eeab3ee4515eaa509c89e5
+#EXTINF:0 channelID="x-ID.114" tvg-chno="1114" tvg-name="US| CBS 11 (WINK) FORT MYERS" tvg-id="1114" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 11 (WINK) FORT MYERS
+http://192.168.64.1:34400/stream/15324b6540de7b522222548b67c6bc73
+#EXTINF:0 channelID="x-ID.115" tvg-chno="1115" tvg-name="US| CBS 11 (WJHL) JOHNSON CITY" tvg-id="1115" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 11 (WJHL) JOHNSON CITY
+http://192.168.64.1:34400/stream/d4fafe3301825ac6f0734d77bd7047fd
+#EXTINF:0 channelID="x-ID.116" tvg-chno="1116" tvg-name="US| CBS 11 (WTOC) SAVANNAH" tvg-id="1116" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 11 (WTOC) SAVANNAH
+http://192.168.64.1:34400/stream/84194d2050ead8ac2aeb1f168ababa91
+#EXTINF:0 channelID="x-ID.117" tvg-chno="1117" tvg-name="US| CBS 11 (WTOL) TOLEDO" tvg-id="1117" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 11 (WTOL) TOLEDO
+http://192.168.64.1:34400/stream/860b8f40178255a133fcd3886afe1722
+#EXTINF:0 channelID="x-ID.118" tvg-chno="1118" tvg-name="US| CBS 12 (KCOY) SANTA MARIA" tvg-id="1118" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 12 (KCOY) SANTA MARIA
+http://192.168.64.1:34400/stream/59fab5bd053f08da8e7197dab2e6f245
+#EXTINF:0 channelID="x-ID.119" tvg-chno="1119" tvg-name="US| CBS 12 (KFVS) CAPE GIRARDEAU" tvg-id="1119" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 12 (KFVS) CAPE GIRARDEAU
+http://192.168.64.1:34400/stream/3a66b768e43fa139bec12510119fc986
+#EXTINF:0 channelID="x-ID.120" tvg-chno="1120" tvg-name="US| CBS 12 (KWCH) HUTCHINSON" tvg-id="1120" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 12 (KWCH) HUTCHINSON
+http://192.168.64.1:34400/stream/a7b1cd5927b01f566793a0cb269f24ad
+#EXTINF:0 channelID="x-ID.121" tvg-chno="1121" tvg-name="US| CBS 12 (WBNG) BINGHAMTON" tvg-id="1121" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 12 (WBNG) BINGHAMTON
+http://192.168.64.1:34400/stream/a1ca6d3a7e2aef3e019ca4d246fde612
+#EXTINF:0 channelID="x-ID.122" tvg-chno="1122" tvg-name="US| CBS 12 (WDEF) CHATTANOOGA" tvg-id="1122" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 12 (WDEF) CHATTANOOGA
+http://192.168.64.1:34400/stream/8ff0c71570a0ffbbecfd4166a6c3db38
+#EXTINF:0 channelID="x-ID.123" tvg-chno="1123" tvg-name="US| CBS 12 (WJTV) JACKSON" tvg-id="1123" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 12 (WJTV) JACKSON
+http://192.168.64.1:34400/stream/0ddec3c1ec688727b974bffc454c7093
+#EXTINF:0 channelID="x-ID.124" tvg-chno="1124" tvg-name="US| CBS 12 (WKRC) CINCINNATI" tvg-id="1124" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 12 (WKRC) CINCINNATI
+http://192.168.64.1:34400/stream/4118b40088e01805e17b8b60efe082a0
+#EXTINF:0 channelID="x-ID.125" tvg-chno="1125" tvg-name="US| CBS 12 (KSLA) SHREVEPORT" tvg-id="1125" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 12 (KSLA) SHREVEPORT
+http://192.168.64.1:34400/stream/11f62de4c4e38152b41c370d83d4c818
+#EXTINF:0 channelID="x-ID.126" tvg-chno="1126" tvg-name="US| CBS 12 (WPRI) PROVIDENCE/NEW BEDFORD" tvg-id="1126" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 12 (WPRI) PROVIDENCE/NEW BEDFORD
+http://192.168.64.1:34400/stream/40de4f98b7dd5b3cb5982f4e872551a0
+#EXTINF:0 channelID="x-ID.127" tvg-chno="1127" tvg-name="US| CBS 12 (WRDW) AUGUSTA" tvg-id="1127" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 12 (WRDW) AUGUSTA
+http://192.168.64.1:34400/stream/231328161278a44aff687d3ad3f4ba71
+#EXTINF:0 channelID="x-ID.128" tvg-chno="1128" tvg-name="US| CBS 13 (KLBK) LUBBOCK" tvg-id="1128" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 13 (KLBK) LUBBOCK
+http://192.168.64.1:34400/stream/d624abb736e6dce7fdfed644508839ae
+#EXTINF:0 channelID="x-ID.129" tvg-chno="1129" tvg-name="US| CBS 13 (KOLD) TUCSON" tvg-id="1129" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 13 (KOLD) TUCSON
+http://192.168.64.1:34400/stream/8ea0500a95f1929d740f08e10ffe7da3
+#EXTINF:0 channelID="x-ID.130" tvg-chno="1130" tvg-name="US| CBS 13 (KOVR) SACRAMENTO" tvg-id="1130" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 13 (KOVR) SACRAMENTO
+http://192.168.64.1:34400/stream/9c167b05686ef5def2c6c4665d3ebecc
+#EXTINF:0 channelID="x-ID.131" tvg-chno="1131" tvg-name="US| CBS 13 (KRCG) JEFFERSON CITY" tvg-id="1131" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 13 (KRCG) JEFFERSON CITY
+http://192.168.64.1:34400/stream/178ad158c9d2f7814d9a0e7b9a41ab32
+#EXTINF:0 channelID="x-ID.132" tvg-chno="1132" tvg-name="US| CBS 13 (KRQE) ALBUQUERQUE-SANTA FE" tvg-id="1132" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 13 (KRQE) ALBUQUERQUE-SANTA FE
+http://192.168.64.1:34400/stream/a1013a399e1be725e55b338aaf97bd33
+#EXTINF:0 channelID="x-ID.133" tvg-chno="1133" tvg-name="US| CBS 13 (KVAL) EUGENE" tvg-id="1133" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 13 (KVAL) EUGENE
+http://192.168.64.1:34400/stream/ad41ba0f22aabc2c853c6eeeb33b118c
+#EXTINF:0 channelID="x-ID.134" tvg-chno="1134" tvg-name="US| CBS 13 (KXDF) FAIRBANKS" tvg-id="1134" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 13 (KXDF) FAIRBANKS
+http://192.168.64.1:34400/stream/40a802c27558005007fb73715fcf7155
+#EXTINF:0 channelID="x-ID.135" tvg-chno="1135" tvg-name="US| CBS 13 (KXMC) MINOT" tvg-id="1135" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 13 (KXMC) MINOT
+http://192.168.64.1:34400/stream/fd28e218abc488c9f48b670239eb70a0
+#EXTINF:0 channelID="x-ID.136" tvg-chno="1136" tvg-name="US| CBS 13 (WBTW) FLORENCE" tvg-id="1136" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 13 (WBTW) FLORENCE
+http://192.168.64.1:34400/stream/ffd292bcd630ee6ee72d127ee508141f
+#EXTINF:0 channelID="x-ID.137" tvg-chno="1137" tvg-name="US| CBS 13 (WGME) PORTLAND" tvg-id="1137" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 13 (WGME) PORTLAND
+http://192.168.64.1:34400/stream/1961d27e94154dba8669b86db48f5440
+#EXTINF:0 channelID="x-ID.138" tvg-chno="1138" tvg-name="US| CBS 13 (WIBW) TOPEKA" tvg-id="1138" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 13 (WIBW) TOPEKA
+http://192.168.64.1:34400/stream/d6c222f8e3e83eb970246f47fcbe3ae4
+#EXTINF:0 channelID="x-ID.139" tvg-chno="1139" tvg-name="US| CBS 13 (WJZ) BALTIMORE" tvg-id="1139" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 13 (WJZ) BALTIMORE
+http://192.168.64.1:34400/stream/c760f10961e4959b582b1006f907d7e9
+#EXTINF:0 channelID="x-ID.140" tvg-chno="1140" tvg-name="US| CBS 13 (WLOX-DT2) GULFPORT" tvg-id="1140" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 13 (WLOX-DT2) GULFPORT
+http://192.168.64.1:34400/stream/c233daac1a84b91c2a7f2697886a15e1
+#EXTINF:0 channelID="x-ID.141" tvg-chno="1141" tvg-name="US| CBS 13 (WMAZ) MACON" tvg-id="1141" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 13 (WMAZ) MACON
+http://192.168.64.1:34400/stream/5fd229863f0674cacaf62152099636a7
+#EXTINF:0 channelID="x-ID.142" tvg-chno="1142" tvg-name="US| CBS 13 (WOWK) HUNTINGTON" tvg-id="1142" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 13 (WOWK) HUNTINGTON
+http://192.168.64.1:34400/stream/92e9d797806b42642ae26d4265fa8032
+#EXTINF:0 channelID="x-ID.143" tvg-chno="1143" tvg-name="US| CBS 13 (WSVF-CD2) HARRISONBURG" tvg-id="1143" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 13 (WSVF-CD2) HARRISONBURG
+http://192.168.64.1:34400/stream/cf001a59c9c6bc19440c891f306bcedc
+#EXTINF:0 channelID="x-ID.144" tvg-chno="1144" tvg-name="US| CBS 14 (KMEG) SIOUX CITY" tvg-id="1144" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 14 (KMEG) SIOUX CITY
+http://192.168.64.1:34400/stream/4a5e3866fea2f6b2c7f183209ce3c15c
+#EXTINF:0 channelID="x-ID.145" tvg-chno="1145" tvg-name="US| CBS 15 (WANE) FORT WAYNE" tvg-id="1145" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 15 (WANE) FORT WAYNE
+http://192.168.64.1:34400/stream/ae76dda9165c146922035d5ea29d1914
+#EXTINF:0 channelID="x-ID.146" tvg-chno="1146" tvg-name="US| CBS 17 (KSWL-LD) LAKE CHARLES" tvg-id="1146" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 17 (KSWL-LD) LAKE CHARLES
+http://192.168.64.1:34400/stream/48ce9ef59b206ace6109f45b53483b8f
+#EXTINF:0 channelID="x-ID.147" tvg-chno="1147" tvg-name="US| CBS 17 (WNCN) GOLDSBORO" tvg-id="1147" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 17 (WNCN) GOLDSBORO
+http://192.168.64.1:34400/stream/d0b7027d4fec5beb2b41134787ab431f
+#EXTINF:0 channelID="x-ID.148" tvg-chno="1148" tvg-name="US| CBS 18 (WECP-LD) PANAMA CITY" tvg-id="1148" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 18 (WECP-LD) PANAMA CITY
+http://192.168.64.1:34400/stream/4cb28a881a84c84e6346468287fb13a5
+#EXTINF:0 channelID="x-ID.149" tvg-chno="1149" tvg-name="US| CBS 18 (WLFI-DT) LAFAYETTE" tvg-id="1149" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 18 (WLFI-DT) LAFAYETTE
+http://192.168.64.1:34400/stream/6b3d804b7710f7e9fd5a8dcbc67fc8f7
+#EXTINF:0 channelID="x-ID.150" tvg-chno="1150" tvg-name="US| CBS 19 (KYTX) TYLER" tvg-id="1150" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 19 (KYTX) TYLER
+http://192.168.64.1:34400/stream/1897df52ee0f0d46e560ec614e187473
+#EXTINF:0 channelID="x-ID.151" tvg-chno="1151" tvg-name="US| CBS 19 (WCAV) CHARLOTTESVILLE" tvg-id="1151" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 19 (WCAV) CHARLOTTESVILLE
+http://192.168.64.1:34400/stream/fddeda188fd4eca9930c16eb2dd873a8
+#EXTINF:0 channelID="x-ID.152" tvg-chno="1152" tvg-name="US| CBS 19 (WHNT) HUNTSVILLE" tvg-id="1152" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 19 (WHNT) HUNTSVILLE
+http://192.168.64.1:34400/stream/76fcf5b61f7905022b278c4c2fe9dcf0
+#EXTINF:0 channelID="x-ID.153" tvg-chno="1153" tvg-name="US| CBS 19 (WLTX) COLUMBIA" tvg-id="1153" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 19 (WLTX) COLUMBIA
+http://192.168.64.1:34400/stream/d5a9fff120c93a8ab21a73f92041a650
+#EXTINF:0 channelID="x-ID.154" tvg-chno="1154" tvg-name="US| CBS 21 (WHP) HARRISBURG" tvg-id="1154" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 21 (WHP) HARRISBURG
+http://192.168.64.1:34400/stream/92e8135a8dde1e195dabe21781a80564
+#EXTINF:0 channelID="x-ID.155" tvg-chno="1155" tvg-name="US| CBS 22 (WHLT) HATTIESBURG" tvg-id="1155" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 22 (WHLT) HATTIESBURG
+http://192.168.64.1:34400/stream/53c87d686968e6a7a99b48b966af432b
+#EXTINF:0 channelID="x-ID.156" tvg-chno="1156" tvg-name="US| CBS 22 (WSBT) SOUTH BEND" tvg-id="1156" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 22 (WSBT) SOUTH BEND
+http://192.168.64.1:34400/stream/2959ce3e63760119b1d0e9fd2c053af2
+#EXTINF:0 channelID="x-ID.157" tvg-chno="1157" tvg-name="US| CBS 22 (WYOU) SCRANTON" tvg-id="1157" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 22 (WYOU) SCRANTON
+http://192.168.64.1:34400/stream/1de06c0b1a42d6d5682470776c35c805
+#EXTINF:0 channelID="x-ID.158" tvg-chno="1158" tvg-name="US| CBS 23 (WIFR-LD) ROCKFORD" tvg-id="1158" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 23 (WIFR-LD) ROCKFORD
+http://192.168.64.1:34400/stream/f05c15bc4929e3823b5fc7838f308b72
+#EXTINF:0 channelID="x-ID.159" tvg-chno="1159" tvg-name="US| CBS 24 (WMDN) MERIDIAN" tvg-id="1159" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 24 (WMDN) MERIDIAN
+http://192.168.64.1:34400/stream/8642d5733609abd94346908b903b8163
+#EXTINF:0 channelID="x-ID.160" tvg-chno="1160" tvg-name="US| CBS 27 (WKBN) YOUNGSTOWN" tvg-id="1160" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 27 (WKBN) YOUNGSTOWN
+http://192.168.64.1:34400/stream/9f78fe99c86f0cc26c94f2e5ab6c1f71
+#EXTINF:0 channelID="x-ID.161" tvg-chno="1161" tvg-name="US| CBS 27 (WKYT) LEXINGTON" tvg-id="1161" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 27 (WKYT) LEXINGTON
+http://192.168.64.1:34400/stream/891fbfc9467480e8bac79ef9593168fd
+#EXTINF:0 channelID="x-ID.162" tvg-chno="1162" tvg-name="US| CBS 29 (KBAK) BAKERSFIELD HD" tvg-id="1162" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 29 (KBAK) BAKERSFIELD HD
+http://192.168.64.1:34400/stream/07078c53e081d699a69710e7a35b2e8b
+#EXTINF:0 channelID="x-ID.163" tvg-chno="1163" tvg-name="US| CBS 29 (KIMA) YAKIMA" tvg-id="1163" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 29 (KIMA) YAKIMA
+http://192.168.64.1:34400/stream/c5a57958b050ee9446d3732b1f2ec388
+#EXTINF:0 channelID="x-ID.164" tvg-chno="1164" tvg-name="US| CBS 30 (KXJB) FARGO VALLEY" tvg-id="1164" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 30 (KXJB) FARGO VALLEY
+http://192.168.64.1:34400/stream/16eaa48f8bfff5b9a747202cc9dc8a50
+#EXTINF:0 channelID="x-ID.165" tvg-chno="1165" tvg-name="US| CBS 31 (WMBD) PEORIA" tvg-id="1165" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 31 (WMBD) PEORIA
+http://192.168.64.1:34400/stream/5907910a63714552056d54f98c4faa64
+#EXTINF:0 channelID="x-ID.166" tvg-chno="1166" tvg-name="US| CBS 32 (KTAB) ABILENE" tvg-id="1166" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 32 (KTAB) ABILENE
+http://192.168.64.1:34400/stream/fb0b741676baef6033ed8072b117e1c8
+#EXTINF:0 channelID="x-ID.167" tvg-chno="1167" tvg-name="US| CBS 32 (WLKY) LOUISVILLE" tvg-id="1167" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 32 (WLKY) LOUISVILLE
+http://192.168.64.1:34400/stream/7c20aa159c4be78097552b6c7a3a8744
+#EXTINF:0 channelID="x-ID.168" tvg-chno="1168" tvg-name="US| CBS 35 (WOHL-CD2) LIMA" tvg-id="1168" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 35 (WOHL-CD2) LIMA
+http://192.168.64.1:34400/stream/8d1530e9f283d7e1fd0567c4586a559f
+#EXTINF:0 channelID="x-ID.169" tvg-chno="1169" tvg-name="US| CBS 35 (WSEE) ERIE" tvg-id="1169" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 35 (WSEE) ERIE
+http://192.168.64.1:34400/stream/aa1dd59c3b170a0c64eb8dc3826ad9d0
+#EXTINF:0 channelID="x-ID.170" tvg-chno="1170" tvg-name="US| CBS 39 (KJNB-LD2) JONESBORO" tvg-id="1170" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 39 (KJNB-LD2) JONESBORO
+http://192.168.64.1:34400/stream/51c687129f7335fcc84e8b9114d427ac
+#EXTINF:0 channelID="x-ID.171" tvg-chno="1171" tvg-name="US| CBS 40 (WNKY-DT2) BOWLING GREEN" tvg-id="1171" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 40 (WNKY-DT2) BOWLING GREEN
+http://192.168.64.1:34400/stream/c3db38f17b8b4ae1c42f155355def004
+#EXTINF:0 channelID="x-ID.172" tvg-chno="1172" tvg-name="US| CBS 42 (KEYE) AUSTIN" tvg-id="1172" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 42 (KEYE) AUSTIN
+http://192.168.64.1:34400/stream/dd58ca3a81213e8159c10c5a5c322644
+#EXTINF:0 channelID="x-ID.173" tvg-chno="1173" tvg-name="US| CBS 42 (WIAT) BIRMINGHAM" tvg-id="1173" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 42 (WIAT) BIRMINGHAM
+http://192.168.64.1:34400/stream/ccd2e1ffc64951278588dcce9c6ecb57
+#EXTINF:0 channelID="x-ID.174" tvg-chno="1174" tvg-name="US| CBS 44 (WEVV) EVANSVILLE" tvg-id="1174" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 44 (WEVV) EVANSVILLE
+http://192.168.64.1:34400/stream/99e5f2d4327c4a9717ef71eba8a5418b
+#EXTINF:0 channelID="x-ID.175" tvg-chno="1175" tvg-name="US| CBS 46 (KION) MONTEREY" tvg-id="1175" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 46 (KION) MONTEREY
+http://192.168.64.1:34400/stream/dabd7ee973f62865e80373e9923441ef
+#EXTINF:0 channelID="x-ID.176" tvg-chno="1176" tvg-name="US| CBS 46 (WGCL) ATLANTA" tvg-id="1176" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 46 (WGCL) ATLANTA
+http://192.168.64.1:34400/stream/b93794f7e8b02e5c84b2f45f8dfc73d1
+#EXTINF:0 channelID="x-ID.177" tvg-chno="1177" tvg-name="US| CBS 47 (KGPE) FRESNO" tvg-id="1177" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 47 (KGPE) FRESNO
+http://192.168.64.1:34400/stream/252adf5a15b6a2739cc0cc5960e4615f
+#EXTINF:0 channelID="x-ID.178" tvg-chno="1178" tvg-name="US| CBS 47 (WJAX) JACKSONVILLE" tvg-id="1178" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 47 (WJAX) JACKSONVILLE
+http://192.168.64.1:34400/stream/56c7a8042b813c488adf5a0ca8151aa4
+#EXTINF:0 channelID="x-ID.179" tvg-chno="1179" tvg-name="US| CBS 57 (WYMT-DT) HAZARD" tvg-id="1179" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 57 (WYMT-DT) HAZARD
+http://192.168.64.1:34400/stream/dfd6961a7dd8b906c1a5b6936221fccf
+#EXTINF:0 channelID="x-ID.180" tvg-chno="1180" tvg-name="US| CBS 58 (WDJT) MILWAUKEE" tvg-id="1180" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 58 (WDJT) MILWAUKEE
+http://192.168.64.1:34400/stream/ba40741839334125121d254a0a84d995
+#EXTINF:0 channelID="x-ID.181" tvg-chno="1181" tvg-name="US| CBS 62 (WWJ) DETROIT" tvg-id="1181" tvg-logo="https://lo1.in/us/cbsww.png" group-title="AM | USA CBS",US| CBS 62 (WWJ) DETROIT
+http://192.168.64.1:34400/stream/307bbcf9cd3753502c92570cd3c5f2d6
+#EXTINF:0 channelID="x-ID.182" tvg-chno="1182" tvg-name="US| ANTENNA TV HD" tvg-id="1182" tvg-logo="https://lo1.in/us/ntna0.png" group-title="AM | USA ENTERTAINMENT",US| ANTENNA TV HD
+http://192.168.64.1:34400/stream/b7b4fddeeb02285ef5361d15ce10f033
+#EXTINF:0 channelID="x-ID.183" tvg-chno="1183" tvg-name="US| HGTV EAST HD" tvg-id="1183" tvg-logo="https://lo1.in/us/hgtv.png" group-title="AM | USA ENTERTAINMENT",US| HGTV EAST HD
+http://192.168.64.1:34400/stream/db849a22faaee0ce3f100a88640a413e
+#EXTINF:0 channelID="x-ID.184" tvg-chno="1184" tvg-name="US| TLC EAST" tvg-id="1184" tvg-logo="https://lo1.in/us/tlc.png" group-title="AM | USA ENTERTAINMENT",US| TLC EAST
+http://192.168.64.1:34400/stream/7ef4483500cd3e7ee857c9caa21f19d5
+#EXTINF:0 channelID="x-ID.185" tvg-chno="1185" tvg-name="US| HALLMARK CHANNEL HD" tvg-id="1185" tvg-logo="https://lo1.in/usa/hallmr.png" group-title="AM | USA ENTERTAINMENT",US| HALLMARK CHANNEL HD
+http://192.168.64.1:34400/stream/3399d9b86311abfed44857ce95aedf13
+#EXTINF:0 channelID="x-ID.186" tvg-chno="1186" tvg-name="US| A&E FHD" tvg-id="1186" tvg-logo="https://lo1.in/usa/ae1.png" group-title="AM | USA ENTERTAINMENT",US| A&E FHD
+http://192.168.64.1:34400/stream/cfda4e3d763229a29177084fabdf853b
+#EXTINF:0 channelID="x-ID.187" tvg-chno="1187" tvg-name="US| GAME SHOW NETWORK HD" tvg-id="1187" tvg-logo="https://lo1.in/us/game.png" group-title="AM | USA ENTERTAINMENT",US| GAME SHOW NETWORK HD
+http://192.168.64.1:34400/stream/07ef8bb160a754813c6b1aed19c7447d
+#EXTINF:0 channelID="x-ID.188" tvg-chno="1188" tvg-name="US| FREEFORM HD [EAST]" tvg-id="1188" tvg-logo="https://lo1.in/us/freo.png" group-title="AM | USA ENTERTAINMENT",US| FREEFORM HD [EAST]
+http://192.168.64.1:34400/stream/5da2ded2b67379b800d14952b242f9c8
+#EXTINF:0 channelID="x-ID.189" tvg-chno="1189" tvg-name="US| FOOD NETWORK HD (EAST)" tvg-id="1189" tvg-logo="https://lo1.in/us/foodn.png" group-title="AM | USA ENTERTAINMENT",US| FOOD NETWORK HD (EAST)
+http://192.168.64.1:34400/stream/318756d04c11bce4ffd43a082693be31
+#EXTINF:0 channelID="x-ID.190" tvg-chno="1190" tvg-name="US| LIFETIME HD" tvg-id="1190" tvg-logo="https://lo1.in/us/lftm.png" group-title="AM | USA ENTERTAINMENT",US| LIFETIME HD
+http://192.168.64.1:34400/stream/f0114a09d13940607f1a6e2c41063842
+#EXTINF:0 channelID="x-ID.191" tvg-chno="1191" tvg-name="US| COMEDY CENTRAL EAST HD" tvg-id="1191" tvg-logo="https://lo1.in/usa/fxsih.png" group-title="AM | USA ENTERTAINMENT",US| COMEDY CENTRAL EAST HD
+http://192.168.64.1:34400/stream/91fd2b564e4756fc7a6628b198d75a02
+#EXTINF:0 channelID="x-ID.192" tvg-chno="1192" tvg-name="US| OPRAH WINFREY NETWORK HD" tvg-id="1192" tvg-logo="https://lo1.in/us/oprw.png" group-title="AM | USA ENTERTAINMENT",US| OPRAH WINFREY NETWORK HD
+http://192.168.64.1:34400/stream/8730d6269e1c8eff7f0c266ce1a791d9
+#EXTINF:0 channelID="x-ID.193" tvg-chno="1193" tvg-name="US| MTV HD" tvg-id="1193" tvg-logo="https://lo1.in/us/mtv.png" group-title="AM | USA ENTERTAINMENT",US| MTV HD
+http://192.168.64.1:34400/stream/1b211a763e688d37f9539daefeafa455
+#EXTINF:0 channelID="x-ID.194" tvg-chno="1194" tvg-name="US| COOKING CHANNEL HD" tvg-id="1194" tvg-logo="https://lo1.in/usa/cook.png" group-title="AM | USA ENTERTAINMENT",US| COOKING CHANNEL HD
+http://192.168.64.1:34400/stream/2db1c43b7a38f86806cf4faff53dd955
+#EXTINF:0 channelID="x-ID.195" tvg-chno="1195" tvg-name="US| VH1 HD" tvg-id="1195" tvg-logo="https://lo1.in/usa/vh1.png" group-title="AM | USA ENTERTAINMENT",US| VH1 HD
+http://192.168.64.1:34400/stream/caa28cc7e0744823ae101aab4e25c44b
+#EXTINF:0 channelID="x-ID.196" tvg-chno="1196" tvg-name="US| CMT HD" tvg-id="1196" tvg-logo="https://lo1.in/usa/cmt.png" group-title="AM | USA ENTERTAINMENT",US| CMT HD
+http://192.168.64.1:34400/stream/b3c3f2b5a3bb3e3db4444bacf0ae8531
+#EXTINF:0 channelID="x-ID.197" tvg-chno="1197" tvg-name="US| E! ENTERTAINMENT EAST HD" tvg-id="1197" tvg-logo="https://lo1.in/usa/fxsih1.png" group-title="AM | USA ENTERTAINMENT",US| E! ENTERTAINMENT EAST HD
+http://192.168.64.1:34400/stream/f148a20a9d6cc6bfca2725c1d170182a
+#EXTINF:0 channelID="x-ID.198" tvg-chno="1198" tvg-name="US| BOUNCE TV HD" tvg-id="1198" tvg-logo="https://lo1.in/us/bonc.png" group-title="AM | USA ENTERTAINMENT",US| BOUNCE TV HD
+http://192.168.64.1:34400/stream/33b703f43e812d37e6db8a50f6ff95a0
+#EXTINF:0 channelID="x-ID.199" tvg-chno="1199" tvg-name="US| ADULT SWIM HD" tvg-id="1199" tvg-logo="https://lo1.in/us/adlt.png" group-title="AM | USA ENTERTAINMENT",US| ADULT SWIM HD
+http://192.168.64.1:34400/stream/41242abea79b365d61573456518c9f26
+#EXTINF:0 channelID="x-ID.200" tvg-chno="1200" tvg-name="US| COURT TV FHD" tvg-id="1200" tvg-logo="https://lo1.in/us/courr.png" group-title="AM | USA ENTERTAINMENT",US| COURT TV FHD
+http://192.168.64.1:34400/stream/3b1c1f74064f9409ec1e4dfc215c63ed
+#EXTINF:0 channelID="x-ID.201" tvg-chno="1201" tvg-name="US| WE TV HD" tvg-id="1201" tvg-logo="https://lo1.in/us/wet.png" group-title="AM | USA ENTERTAINMENT",US| WE TV HD
+http://192.168.64.1:34400/stream/8113949855a5e6262e277b16ec9b9fe1
+#EXTINF:0 channelID="x-ID.202" tvg-chno="1202" tvg-name="US| POP HD" tvg-id="1202" tvg-logo="https://lo1.in/us/pp.png" group-title="AM | USA ENTERTAINMENT",US| POP HD
+http://192.168.64.1:34400/stream/c450aec2d63b3fe2007768c32852977b
+#EXTINF:0 channelID="x-ID.203" tvg-chno="1203" tvg-name="US| DOG TV FHD" tvg-id="1203" tvg-logo="https://lo1.in/us/dog.png" group-title="AM | USA ENTERTAINMENT",US| DOG TV FHD
+http://192.168.64.1:34400/stream/b17fda13c75b393b78e8c699131846ac
+#EXTINF:0 channelID="x-ID.204" tvg-chno="1204" tvg-name="US| VICE HD" tvg-id="1204" tvg-logo="https://lo1.in/us/vice0.png" group-title="AM | USA ENTERTAINMENT",US| VICE HD
+http://192.168.64.1:34400/stream/4fba515edb9c46471952d1c393957d7f
+#EXTINF:0 channelID="x-ID.205" tvg-chno="1205" tvg-name="US| HEROES & ICONS HD" tvg-id="1205" tvg-logo="https://lo1.in/usa/heri.png" group-title="AM | USA ENTERTAINMENT",US| HEROES & ICONS HD
+http://192.168.64.1:34400/stream/41e6931d15037a2cc2f5dd9831aff1ef
+#EXTINF:0 channelID="x-ID.206" tvg-chno="1206" tvg-name="US| AWE HD" tvg-id="1206" tvg-logo="https://lo1.in/usa/awe.png" group-title="AM | USA ENTERTAINMENT",US| AWE HD
+http://192.168.64.1:34400/stream/7776a76cde772214097b64e1e749aff0
+#EXTINF:0 channelID="x-ID.207" tvg-chno="1207" tvg-name="US| AMERICAN HEROES CHANNEL HD" tvg-id="1207" tvg-logo="https://lo1.in/us/ahero0.png" group-title="AM | USA ENTERTAINMENT",US| AMERICAN HEROES CHANNEL HD
+http://192.168.64.1:34400/stream/0a35eb219ce4e8a7079457d234a48c06
+#EXTINF:0 channelID="x-ID.208" tvg-chno="1208" tvg-name="US| TRU TV (East) FHD" tvg-id="1208" tvg-logo="https://lo1.in/usa/tru.png" group-title="AM | USA ENTERTAINMENT",US| TRU TV (East) FHD
+http://192.168.64.1:34400/stream/cf48899636d2e1fe01a0de2018a8fba9
+#EXTINF:0 channelID="x-ID.209" tvg-chno="1209" tvg-name="US| THE COWBOY CHANNEL FHD" tvg-id="1209" tvg-logo="https://lo1.in/us/thc.png" group-title="AM | USA ENTERTAINMENT",US| THE COWBOY CHANNEL FHD
+http://192.168.64.1:34400/stream/39ce3296547deec26db4fb843bc3a41b
+#EXTINF:0 channelID="x-ID.210" tvg-chno="1210" tvg-name="US| FETV HD" tvg-id="1210" tvg-logo="https://lo1.in/us/fer0.png" group-title="AM | USA ENTERTAINMENT",US| FETV HD
+http://192.168.64.1:34400/stream/6a591eb2722544d2198c57c800ba7408
+#EXTINF:0 channelID="x-ID.211" tvg-chno="1211" tvg-name="US| LAFF FHD" tvg-id="1211" tvg-logo="https://lo1.in/us/laff.png" group-title="AM | USA ENTERTAINMENT",US| LAFF FHD
+http://192.168.64.1:34400/stream/6ee9ba0deb982808408b52c2f7a427d5
+#EXTINF:0 channelID="x-ID.212" tvg-chno="1212" tvg-name="US| WGN AMERICA FHD" tvg-id="1212" tvg-logo="https://lo1.in/us/wgm0.png" group-title="AM | USA ENTERTAINMENT",US| WGN AMERICA FHD
+http://192.168.64.1:34400/stream/a24bfc81ed74e55b0f8396291762c6d6
+#EXTINF:0 channelID="x-ID.213" tvg-chno="1213" tvg-name="US| LAW AND CRIME HD" tvg-id="1213" tvg-logo="https://lo1.in/us/lwr.png" group-title="AM | USA ENTERTAINMENT",US| LAW AND CRIME HD
+http://192.168.64.1:34400/stream/bc9240c1fad3d79a9c45f37170cf15d9
+#EXTINF:0 channelID="x-ID.214" tvg-chno="1214" tvg-name="US| QVC 1 HD" tvg-id="1214" tvg-logo="https://lo1.in/us/qvc1.png" group-title="AM | USA ENTERTAINMENT",US| QVC 1 HD
+http://192.168.64.1:34400/stream/ec54463aa5bc84991e9e0763112097e9
+#EXTINF:0 channelID="x-ID.215" tvg-chno="1215" tvg-name="US| QVC 2 FHD" tvg-id="1215" tvg-logo="https://lo1.in/usa/qvc2.png" group-title="AM | USA ENTERTAINMENT",US| QVC 2 FHD
+http://192.168.64.1:34400/stream/3c8ec75f6df6771d74323fd679b3da85
+#EXTINF:0 channelID="x-ID.216" tvg-chno="1216" tvg-name="US| QVC 3 HD" tvg-id="1216" tvg-logo="https://lo1.in/usa/qvc3.png" group-title="AM | USA ENTERTAINMENT",US| QVC 3 HD
+http://192.168.64.1:34400/stream/a4bdcbeee8fe6951368dbf19dff31f2c
+#EXTINF:0 channelID="x-ID.217" tvg-chno="1217" tvg-name="US| HSN HD" tvg-id="1217" tvg-logo="https://lo1.in/us/hsn.png" group-title="AM | USA ENTERTAINMENT",US| HSN HD
+http://192.168.64.1:34400/stream/13b869590ff35be09d81f4243f0c3c5c
+#EXTINF:0 channelID="x-ID.218" tvg-chno="1218" tvg-name="US| REVOLT HD" tvg-id="1218" tvg-logo="https://lo1.in/usa/rev.png" group-title="AM | USA ENTERTAINMENT",US| REVOLT HD
+http://192.168.64.1:34400/stream/1b9c29d857660358fd1189b3f70d8527
+#EXTINF:0 channelID="x-ID.219" tvg-chno="1219" tvg-name="US| GOD TV HD+" tvg-id="1219" tvg-logo="https://lo1.in/us/gdtv.png" group-title="AM | USA ENTERTAINMENT",US| GOD TV HD+
+http://192.168.64.1:34400/stream/fa275702a129987db2c2e574c402029a
+#EXTINF:0 channelID="x-ID.220" tvg-chno="1220" tvg-name="US| ESTV HD" tvg-id="1220" tvg-logo="https://lo1.in/us/estv.png" group-title="AM | USA ENTERTAINMENT",US| ESTV HD
+http://192.168.64.1:34400/stream/ae5847bac2ec4ecec674739fc5f63439
+#EXTINF:0 channelID="x-ID.221" tvg-chno="1221" tvg-name="US| GEM SHOPPING HD" tvg-id="1221" tvg-logo="https://lo1.in/us/gems0.png" group-title="AM | USA ENTERTAINMENT",US| GEM SHOPPING HD
+http://192.168.64.1:34400/stream/724cea0add4e703a484b54447b3a6fcb
+#EXTINF:0 channelID="x-ID.222" tvg-chno="1222" tvg-name="US| UP TV" tvg-id="1222" tvg-logo="https://lo1.in/us/uptv.png" group-title="AM | USA ENTERTAINMENT",US| UP TV
+http://192.168.64.1:34400/stream/9d4585eea8a7ce444274766d897a3c94
+#EXTINF:0 channelID="x-ID.223" tvg-chno="1223" tvg-name="US| FM FHD" tvg-id="1223" tvg-logo="https://lo1.in/us/fm.png" group-title="AM | USA ENTERTAINMENT",US| FM FHD
+http://192.168.64.1:34400/stream/af76eae122cea93e835ed3f4edfcdddf
+#EXTINF:0 channelID="x-ID.224" tvg-chno="1224" tvg-name="US| LMN HD" tvg-id="1224" tvg-logo="https://lo1.in/usa/lmn.png" group-title="AM | USA ENTERTAINMENT",US| LMN HD
+http://192.168.64.1:34400/stream/5f60cf7c7924d84654964ad0fc0666aa
