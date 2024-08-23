@@ -3,6 +3,7 @@
 
 import requests
 import os
+import re
 
 USERNAME = os.getenv('M3U_USERNAME')
 PASSWORD = os.getenv('M3U_PASSWORD')
@@ -22,18 +23,39 @@ HEADERS = {
 print(BASE_URL)
 print(BASE_PATH)
 
-try:
-    os.remove(BASE_PATH + '/all.m3u.wip')
-except:
-    print("Error in removing all.m3u.wip")
+# try:
+#     os.remove(BASE_PATH + '/all.m3u.wip')
+# except:
+#     print("Error in removing all.m3u.wip")
 
-
+# contents = requests.get(BASE_URL, headers=HEADERS, stream=True)
+# for line in contents.iter_lines():
+#     print(line)
+#     exit(0)
 # # Configure Live TV
-with open(BASE_PATH + '/all.m3u.wip', 'w') as outfile:
-    contents = requests.get(BASE_URL, headers=HEADERS).text
-    outfile.write(contents)
 
-os.rename(BASE_PATH + '/all.m3u.wip', BASE_PATH + '/all.m3u')
+REGEX_TEST = re.compile('#EXTINF.*?tvg-id=".*\.us"')
+with open(BASE_PATH + '/all.m3u.wip', 'w') as outfile:
+    contents = requests.get(BASE_URL, headers=HEADERS).text.splitlines()
+    print("File read. %n records." % len(contents))
+    
+    outfile.write(contents[0]) # Header line
+    outfile.write('\n')
+    i = 1
+    total = len(contents)
+
+    while i < total - 2:
+        headerline = contents[i]
+        dataline = contents[i+1]
+        if 'WEST' not in headerline and re.match(REGEX_TEST, headerline) is not None:
+            outfile.write(headerline)
+            outfile.write('\n')
+            outfile.write(dataline)
+            outfile.write('\n')
+        i = i+1
+
+
+os.rename(BASE_PATH + '/all.m3u.wip', BASE_PATH + '/all2.m3u')
 
 # # Configure Movies
 # try:
