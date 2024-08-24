@@ -34,22 +34,7 @@ print("Configuring workspace...")
 print(WORKING_SPACE_DIR_BASE_PATH_OVERRIDE)
 Path(WORKING_SPACE_DIR_BASE_PATH_OVERRIDE).mkdir(parents=True, exist_ok=True)
 
-
-
-# if not os.path.exists(WORKING_SPACE_DIR_BASE_PATH_OVERRIDE):
-#     print("Creating working dir... %s", WORKING_SPACE_DIR_BASE_PATH_OVERRIDE)
-#     os.makedirs(WORKING_SPACE_DIR_BASE_PATH_OVERRIDE)
-
-# try:
-#     os.remove(BASE_PATH + '/all.m3u.wip')
-# except:
-#     print("Error in removing all.m3u.wip")
-
-# contents = requests.get(BASE_URL, headers=HEADERS, stream=True)
-# for line in contents.iter_lines():
-#     print(line)
-#     exit(0)
-# # Configure Live TV
+# TODO: Put in loop and update periodically
 
 print("Processing M3U data...")
 REGEX_TEST = re.compile('#EXTINF.*?tvg-id=".*\.us"')
