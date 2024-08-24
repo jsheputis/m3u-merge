@@ -72,7 +72,7 @@ os.rename(WORKING_SPACE_DIR_BASE_PATH_OVERRIDE + '/all-simplified.m3u.wip', BASE
 print("M3U File creation complete.")
 
 print("Processing XMLTV data...")
-with open(WORKING_SPACE_DIR_BASE_PATH_OVERRIDE + '/xmltv.xml.gz.wip') as outfile:
+with open(WORKING_SPACE_DIR_BASE_PATH_OVERRIDE + '/xmltv.xml.gz.wip', 'w') as outfile:
     contents = requests.get(EPG_URL, headers=HEADERS).text
     outfile.write(contents)
 
