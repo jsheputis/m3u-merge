@@ -5,6 +5,7 @@ import requests
 import os
 import re
 from pathlib import Path
+import urllib.request
 
 USERNAME = os.getenv('M3U_USERNAME')
 PASSWORD = os.getenv('M3U_PASSWORD')
@@ -71,13 +72,16 @@ with open(WORKING_SPACE_DIR_BASE_PATH_OVERRIDE + '/all-simplified.m3u.wip', 'w')
 os.rename(WORKING_SPACE_DIR_BASE_PATH_OVERRIDE + '/all-simplified.m3u.wip', BASE_PATH + '/all-simplified.m3u')
 print("M3U File creation complete.")
 
+def getGuideData():
+    urllib.request.urlretrieve(EPG_URL, WORKING_SPACE_DIR_BASE_PATH_OVERRIDE + '/xmltv.xml.gz.wip')
+    os.rename(WORKING_SPACE_DIR_BASE_PATH_OVERRIDE + '/xmltv.xml.gz.wip', BASE_PATH + '/xmltv.xml.gz')
 print("Processing XMLTV data...")
-with open(WORKING_SPACE_DIR_BASE_PATH_OVERRIDE + '/xmltv.xml.gz.wip', 'w') as outfile:
-    contents = requests.get(EPG_URL, headers=HEADERS).text
-    outfile.write(contents)
+try:
+    getGuideData()
+    print("XMLTV File creation complete.")
+except:
+    print("Error getting guide data...")
 
-os.rename(WORKING_SPACE_DIR_BASE_PATH_OVERRIDE + '/xmltv.xml.gz.wip', BASE_PATH + '/xmltv.xml.gz')
-print("XMLTV File creation complete.")
 # # Configure Movies
 # try:
 #     os.remove(BASE_PATH + '/movies.m3u.wip')
