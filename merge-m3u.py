@@ -26,6 +26,10 @@ HEADERS = {
     'Connection': 'Keep-Alive'
 }
 
+opener = urllib.request.build_opener()
+opener.addheaders = [('User-Agent', 'M3U')]
+urllib.request.install_opener(opener)
+
 print("Configuring workspace...")
 print(WORKING_SPACE_DIR_BASE_PATH_OVERRIDE)
 Path(WORKING_SPACE_DIR_BASE_PATH_OVERRIDE).mkdir(parents=True, exist_ok=True)
