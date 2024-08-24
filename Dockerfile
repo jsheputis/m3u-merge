@@ -23,8 +23,6 @@ COPY run.sh /run.sh
 
 RUN chmod a+x /run.sh
 
-COPY xteve-filtered.m3u /var/www/html/
-
 WORKDIR /var/www/html
 
 # ENTRYPOINT []

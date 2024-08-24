@@ -17,7 +17,7 @@ BASE_URL = 'http://xkdhhfy.mmastertv.xyz/get.php?username=%s&password=%s&output=
 BASE_PATH = BASE_PATH_OVERRIDE if None != BASE_PATH_OVERRIDE else '/var/www/html'
 WORKING_SPACE_DIR_BASE_PATH_OVERRIDE = WORKING_SPACE_DIR_BASE_PATH_OVERRIDE if None != WORKING_SPACE_DIR_BASE_PATH_OVERRIDE else '/m3u-merge/data'
 
-EPG_URL = 'https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz'
+EPG_URL = 'https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz'
 
 HEADERS = {
     'User-Agent': 'M3U',
