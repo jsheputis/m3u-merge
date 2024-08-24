@@ -17,7 +17,7 @@ RUN chmod a+x /merge-m3u/merge-m3u.py
 
 RUN mkdir -p /data/.xteve
 WORKDIR /merge-m3u
-RUN wget -O xteve.zip "https://github.com/xteve-project/xTeVe-Downloads/blob/master/xteve_linux_amd64.zip?raw=true" && chmod a+x xteve
+RUN wget -O xteve.zip "https://github.com/xteve-project/xTeVe-Downloads/blob/master/xteve_linux_amd64.zip?raw=true" && unzip xteve.zip && chmod a+x xteve
 
 COPY run.sh /run.sh
 
